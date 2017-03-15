@@ -1,0 +1,25 @@
+body {
+	margin-left: 11%;
+	margin-right: 11%;
+	margin-top:15%;
+}
+h1 {
+	background-color: #33BEBE;
+	color: white;
+	padding-top: 30px;
+	font-size: 60px;
+	font-weight: 200;
+}
+.app {
+	display: -webkit-flex;
+    display: flex;
+}
+
+.description {
+	margin-left: 3%;
+}
+
+p.description {
+	font-size: 24px;
+	color: #7C8B88;
+}
